@@ -6,3 +6,6 @@ hoping for the best
 
 
 Now I am changing some text in the file
+
+I am adding line 1
+Line 2
